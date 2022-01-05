@@ -54,7 +54,7 @@
 #include "scene/main/window.h"
 #include "servers/display_server.h"
 #include "servers/navigation_server_3d.h"
-
+#
 static inline String get_project_key_from_path(const String &dir) {
 	return dir.replace("/", "::");
 }
