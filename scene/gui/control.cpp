@@ -49,7 +49,7 @@
 #ifdef TOOLS_ENABLED
 #include "editor/plugins/canvas_item_editor_plugin.h"
 #endif
-
+#
 #ifdef TOOLS_ENABLED
 Dictionary Control::_edit_get_state() const {
 	Dictionary s;
